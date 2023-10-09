@@ -1,0 +1,223 @@
+@import url(https://web.archive.org/web/20230605213310cs_/http://fonts.googleapis.com/css?family=Open+Sans:400,600,300);
+@import url(https://web.archive.org/web/20230605213310cs_/http://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://web.archive.org/web/20230605213310cs_/http://fonts.googleapis.com/css?family=Lora);
+
+
+body{
+	color:#444;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+	line-height:1.6;
+	font-size:16px;
+	background-image:url("https://web.archive.org/web/20230605213310im_/https://tylervigen.com/images/hatch2.png");
+}
+header{
+	margin-bottom: 20px;
+}
+
+.content{
+	box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.3), 0px 0px 20px rgba(128, 128, 128, 0.1) inset;
+	position: relative;
+	min-height: 20px;
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: #FEFEFE;
+	border: 1px solid #FEFEFE;
+}
+p{
+	color:#444;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+	font-size:16px;
+	margin:0;
+	padding:0;
+	margin-bottom:10px;
+	line-height:1.4;
+}
+.logo {
+	float: left;
+	clear: both;
+}
+h1{
+	font-family: 'Poiret One', sans;
+	display: inline;
+	line-height:1.0;
+}
+h2{
+	font-family: 'Lora', serif;
+	display: inline-block;
+	line-height:1.3;
+	color:#444;
+	margin-top:0px;
+}
+a{
+	text-decoration:none;
+	color:#ba0f27;
+}
+a:hover{
+	color:#900000;
+}
+p.subtext{
+	font-weight:bold;
+}
+.headLinks{
+	font-size:12px;
+}
+
+
+/****************************************************Desktop browsers**************************************/
+@media (min-width: 980px) {
+	.foot, header{
+		width: 980px;
+		margin: auto;
+	}
+	header{
+		margin-bottom:20px;
+	}
+	.content{
+		width: 938px;
+		margin: auto;
+	}
+}
+/****************************************************End Desktop browsers**************************************/
+
+
+/**************************************Mobile browsers**************************************/
+@media (max-width: 980px) {
+	.foot, header{
+		width: 100%;
+		margin:0;
+	}
+	.content{
+		width:90%;
+		margin:auto;
+	}
+}
+/**************************************END Mobile browsers**************************************/
+
+.between{
+	border-top:dotted 3px;
+	border-bottom: 0px;
+	border-color:#666;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+/*Footer */
+.foot{
+	clear:both;
+	bottom:0px;
+	border-top: 3px solid #CCC;
+	margin-top:30px;
+	color:#666;
+	font-size:12px;
+	margin-bottom:30px;
+}
+.foot > a{
+	color:#666;
+	font-size:12px;
+	text-decoration:none;
+}
+.sources{
+	color:#CCC;
+	font-size: 12px;
+}
+.sources>a{
+	color:#CCC;
+	font-size:12px;
+	text-decoration:none;
+}
+.sources>a:hover{
+	color:#ba0f27;
+	text-decoration:none;
+}
+.foot > a:hover{
+	color:#ba0f27;
+	text-decoration:none;
+}
+/*End footer */
+
+
+
+
+
+input[type=submit] {
+  background: #EEE;
+  background-image: -webkit-linear-gradient(top, #EEE, #DDD);
+  background-image: -moz-linear-gradient(top, #EEE, #DDD);
+  background-image: -ms-linear-gradient(top, #EEE, #DDD);
+  background-image: -o-linear-gradient(top, #EEE, #DDD);
+  background-image: linear-gradient(to bottom, #EEE, #DDD);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Georgia;
+  color: #241f20;
+  font-size: 16px;
+  padding: 5px 15px 5px 15px;
+  border: solid #DDD 3px;
+  text-decoration: none;
+}
+
+input[type=submit]:hover {
+  background: #FFF;
+  background-image: -webkit-linear-gradient(top, #FFF, #EEE);
+  background-image: -moz-linear-gradient(top, #FFF, #EEE);
+  background-image: -ms-linear-gradient(top, #FFF, #EEE);
+  background-image: -o-linear-gradient(top, #FFF, #EEE);
+  background-image: linear-gradient(to bottom, #FFF, #EEE);
+  text-decoration: none;
+}
+
+
+
+
+input {
+  font-family: 'Lucida Grande', Tahoma, Verdana, sans-serif;
+  font-size: 14px;
+}
+
+input[type=text], input[type=password] {
+  margin: 5px;
+  padding: 0 10px;
+  width: 200px;
+  height: 34px;
+  color: #404040;
+  background: white;
+  border: 1px solid;
+  border-color: #c4c4c4 #d1d1d1 #d4d4d4;
+  border-radius: 2px;
+  outline: 5px solid #eff4f7;
+  -moz-outline-radius: 3px; // Can we get this on WebKit please?
+  @include box-shadow(inset 0 1px 3px rgba(black, .12));
+
+  &:focus {
+    border-color: #7dc9e2;
+    outline-color: #dceefc;
+    outline-offset: 0; // WebKit sets this to -1 by default
+  }
+}
+
+
+
+/*
+     FILE ARCHIVED ON 21:33:10 Jun 05, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:13:31 Oct 09, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1063.673
+  exclusion.robots: 0.084
+  exclusion.robots.policy: 0.075
+  cdx.remote: 0.06
+  esindex: 0.01
+  LoadShardBlock: 1017.316 (3)
+  PetaboxLoader3.datanode: 951.06 (4)
+  load_resource: 111.416
+  PetaboxLoader3.resolve: 96.022
+*/

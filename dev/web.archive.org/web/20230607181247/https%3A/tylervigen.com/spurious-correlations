@@ -1,0 +1,2125 @@
+
+<!doctype html>
+<html lang="en">
+<head><script type="text/javascript" src="../../../../_static/js/bundle-playback.js@v=1WaXNDFE" charset="utf-8"></script>
+<script type="text/javascript" src="../../../../_static/js/wombat.js@v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="../../../../_static/js/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://tylervigen.com/spurious-correlations","20230607181247","https://web.archive.org/","web","/_static/",
+	      "1686161567");
+</script>
+<link rel="stylesheet" type="text/css" href="../../../../_static/css/banner-styles.css@v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="../../../../_static/css/iconochive.css@v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="../../../20230607181247cs_/https%253A/tylervigen.com/_styles.css">
+	<script src="../../../20230607181247js_/https%253A/code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+	<title>Spurious Correlations</title>
+	<meta property="og:title" content="Spurious correlations"/>
+			<meta property="og:image" content="https://web.archive.org/web/20230607181247im_/http://tylervigen.com/images/spurious-correlations-share.png"/>
+		<meta property="og:url" content="https://web.archive.org/web/20230607181247/http://tylervigen.com/spurious-correlations"/>
+			<link rel="apple-touch-icon" sizes="57x57" href="https://web.archive.org/web/20230607181247im_/https://tylervigen.com/images/icons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://web.archive.org/web/20230607181247im_/https://tylervigen.com/images/icons/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://web.archive.org/web/20230607181247im_/https://tylervigen.com/images/icons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://web.archive.org/web/20230607181247im_/https://tylervigen.com/images/icons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://web.archive.org/web/20230607181247im_/https://tylervigen.com/images/icons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://web.archive.org/web/20230607181247im_/https://tylervigen.com/images/icons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://web.archive.org/web/20230607181247im_/https://tylervigen.com/images/icons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://web.archive.org/web/20230607181247im_/https://tylervigen.com/images/icons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://web.archive.org/web/20230607181247im_/https://tylervigen.com/images/icons/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="https://web.archive.org/web/20230607181247im_/https://tylervigen.com/icons/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="../../../20230607181247im_/https%253A/tylervigen.com/images/icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="../../../20230607181247im_/https%253A/tylervigen.com/images/icons/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="../../../20230607181247im_/https%253A/tylervigen.com/images/icons/favicon-16x16.png">
+	<link rel="manifest" href="https://web.archive.org/web/20230607181247/https://tylervigen.com/icons/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="images/icons/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+	<header>
+		<table style="width:100%"><tr><td style="width:348px">
+			<a href="index.html"><img src="../../../20230607181247im_/https%253A/tylervigen.com/images/tylervigencom.png" style="width:174px;height:29px" class="logo" alt="tylervigen.com" title="tylervigen.com"></a>
+		</td><td style="text-align:right" class="headerlinks">
+			<p class="headLinks"><a href="about">about</a> | <a href="https://web.archive.org/web/20230607181247/https://twitter.com/TylerVigen">twitter</a> | <a href="https://web.archive.org/web/20230607181247/mailto:vigentyler@gmail.com">email</a> | <a href="subscribe">subscribe</a></p>
+		</td></table>
+	</header>
+	<div class="content paper"><img style="margin-left: auto;margin-right: auto;width:474px;height:73px;display:block;margin-bottom:0px;" src="../../../20230607181247im_/https%253A/tylervigen.com/images/spurious-correlations.png">
+<!--<table align="center" style="margin-bottom:10px;"><tr><td><a href="https://www.amazon.com/gp/product/0316339431/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=0316339431&link_code=as3&tag=tylervicom-20&linkId=UO6I3ENRRQUF255J"><img src="images/spurious-correlations-book.jpg" border="0"></td><td style="vertical-align:top"><h2>Now a ridiculous book!</h2>
+<ul style="margin-top:0px"><li>Spurious charts</li><li>Fascinating factoids</li><li>Commentary in the footnotes</li></ul>
+<a href="https://www.amazon.com/gp/product/0316339431/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=0316339431&link_code=as3&tag=tylervicom-20&linkId=UO6I3ENRRQUF255J">Amazon</a> | <a href="https://www.barnesandnoble.com/w/spurious-correlations-tyler-vigen/1120331604?ean=9780316339438">Barnes & Noble</a> | <a href="https://www.indiebound.org/book/9780316339438">Indie Bound</a></td></tr></table>
+-->
+<script src="../../../20230607181247js_/https%253A/tylervigen.com/addons/highcharts/js/highcharts.js"></script>
+<script src="../../../20230607181247js_/https%253A/tylervigen.com/addons/highcharts/js/modules/exporting.js"></script>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stat60696266e2ff0df611b48ab6d8b9ffc7').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">US spending on science, space, and technology</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Suicides by hanging, strangulation and suffocation</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 99.79% (r=0.99789126)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Hanging suicides',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} suicides',
+                style: {
+                    color: '#000000'
+                }
+            },
+			max:9000,            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '${value} billion',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			max:30,            title: {
+                text: 'US spending on science',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Hanging suicides',
+                color: '#000000',
+                type: 'spline',
+                data: [5427,5688,6198,6462,6635,7336,7248,7491,8161,8578,9000],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' suicides'
+                }
+            },{
+                name: 'US spending on science',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [18.079,18.594,19.753,20.734,20.831,23.029,23.597,23.584,25.525,27.731,29.449],
+                tooltip: {
+                    valuePrefix: '$',
+                    valueSuffix: ' billion'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stat60696266e2ff0df611b48ab6d8b9ffc7" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/cats/science_technology/expenditures_research_development.html">U.S. Office of Management and Budget</a> and <a href="https://web.archive.org/web/20230607181247/https://wonder.cdc.gov/">Centers for Disease Control &amp; Prevention</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stat5219f9dd2c21ab4297eb2713917482c0').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Number of people who drowned by falling into a pool</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Films Nicolas Cage appeared in</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 66.6% (r=0.666004)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Nicholas Cage',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} films',
+                style: {
+                    color: '#000000'
+                }
+            },
+			            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value} drownings',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			            title: {
+                text: 'Swimming pool drownings',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Nicholas Cage',
+                color: '#000000',
+                type: 'spline',
+                data: [2,2,2,3,1,1,2,3,4,1,4],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' films'
+                }
+            },{
+                name: 'Swimming pool drownings',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [109,102,102,98,85,95,96,98,123,94,102],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' drownings'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stat5219f9dd2c21ab4297eb2713917482c0" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://wonder.cdc.gov/">Centers for Disease Control &amp; Prevention</a> and <a href="https://web.archive.org/web/20230607181247/https://www.imdb.com/name/nm0000115/">Internet Movie Database</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stat36b467a0ad0edfc7d809db21c557fcf5').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Per capita cheese consumption</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Number of people who died by becoming tangled in their bedsheets</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 94.71% (r=0.947091)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Bedsheet tanglings',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} deaths',
+                style: {
+                    color: '#000000'
+                }
+            },
+			max:900,min:200, tickInterval:200,endOnTick:false,gridLineWidth:0,minorGridLineWidth:0,            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value}lbs',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			max:34,min:28.5,tickInterval:1.5,endOnTick:false,            title: {
+                text: 'Cheese consumed',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Bedsheet tanglings',
+                color: '#000000',
+                type: 'spline',
+                data: [327,456,509,497,596,573,661,741,809,717],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' deaths'
+                }
+            },{
+                name: 'Cheese consumed',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [29.8,30.1,30.5,30.6,31.3,31.7,32.6,33.1,32.7,32.8],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: 'lbs'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stat36b467a0ad0edfc7d809db21c557fcf5" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2012/tables/12s0217.xls">U.S. Department of Agriculture</a></li> and <a href="https://web.archive.org/web/20230607181247/https://wonder.cdc.gov/">Centers for Disease Control &amp; Prevention</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#statbca200d28bf22715cfda1f0e0c803919').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Divorce rate in Maine</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Per capita consumption of margarine</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 99.26% (r=0.992558)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Margarine consumed',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value}lbs',
+                style: {
+                    color: '#000000'
+                }
+            },
+			max:9,min:3,tickInterval:2,endOnTick:false,            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value} per 1,000',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			max:5,min:4,tickInterval:0.33,endOnTick:false,gridLineWidth:0,minorGridLineWidth:0,            title: {
+                text: 'Divorce rate in Maine',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Margarine consumed',
+                color: '#000000',
+                type: 'spline',
+                data: [8.2,7,6.5,5.3,5.2,4,4.6,4.5,4.2,3.7],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: 'lbs'
+                }
+            },{
+                name: 'Divorce rate in Maine',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [5,4.7,4.6,4.4,4.3,4.1,4.2,4.2,4.2,4.1],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' per 1,000'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="statbca200d28bf22715cfda1f0e0c803919" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/cats/births_deaths_marriages_divorces/marriages_and_divorces.html">National Vital Statistics Reports</a> and <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2012/tables/12s0217.xls">U.S. Department of Agriculture</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#statf23a6cd9321e244ca98e8d9a4d13fe1c').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Age of Miss America</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Murders by steam, hot vapours and hot objects</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 87.01% (r=0.870127)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Murders by steam',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} murders',
+                style: {
+                    color: '#000000'
+                }
+            },
+			min:2,max:8,tickInterval:2,alignTicks:false,endOnTick:false,            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value} yrs',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			min:19,max:25,tickInterval:1.25,alignTicks:false,endOnTick:false,gridLineWidth:0,minorGridLineWidth:0,            title: {
+                text: 'Age of Miss America',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Murders by steam',
+                color: '#000000',
+                type: 'spline',
+                data: [7,7,7,3,4,3,8,4,2,3,2],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' murders'
+                }
+            },{
+                name: 'Age of Miss America',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [24,24,24,21,22,21,24,22,20,19,22],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' yrs'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="statf23a6cd9321e244ca98e8d9a4d13fe1c" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://en.wikipedia.org/wiki/Miss_America">Wikipedia</a> and <a href="https://web.archive.org/web/20230607181247/https://wonder.cdc.gov/">Centers for Disease Control &amp; Prevention</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stat897f4cbec4629379cd566c68c3f40c5f').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Total revenue generated by arcades</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Computer science doctorates awarded in the US</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 98.51% (r=0.985065)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Computer science doctorates',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} degrees',
+                style: {
+                    color: '#000000'
+                }
+            },
+			max:1800,min:500,            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '${value} billion',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			max:2,min:1,alignTicks:false,endOnTick:false,gridLineWidth:0,minorGridLineWidth:0,            title: {
+                text: 'Arcade revenue',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Computer science doctorates',
+                color: '#000000',
+                type: 'spline',
+                data: [861,830,809,867,948,1129,1453,1656,1787,1611],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' degrees'
+                }
+            },{
+                name: 'Arcade revenue',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [1.196,1.176,1.269,1.240,1.307,1.435,1.601,1.654,1.803,1.734],
+                tooltip: {
+                    valuePrefix: '$',
+                    valueSuffix: ' billion'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stat897f4cbec4629379cd566c68c3f40c5f" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2012/tables/12s1228.xls">U.S. Census Bureau</a> and <a href="https://web.archive.org/web/20230607181247/https://www.nsf.gov/statistics/infbrief/nsf11305/">National Science Foundation</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#statc63bc289aeb944210b57fd9927ccb407').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Worldwide non-commercial space launches</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Sociology doctorates awarded (US)</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 78.92% (r=0.78915)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Sociology doctorates awarded (US)',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} Degrees awarded',
+                style: {
+                    color: '#000000'
+                }
+            },
+			max:700,min:500,alignTicks:false,endOnTick:false,gridLineWidth:0,minorGridLineWidth:0,            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value} Launches',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			            title: {
+                text: 'Worldwide non-commercial space launches',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Sociology doctorates awarded (US)',
+                color: '#000000',
+                type: 'spline',
+                data: [601,579,572,617,566,547,597,580,536,579,576,601,664],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' Degrees awarded'
+                }
+            },{
+                name: 'Worldwide non-commercial space launches',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [54,46,42,50,43,41,46,39,37,45,45,41,54],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' Launches'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="statc63bc289aeb944210b57fd9927ccb407" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2012/tables/12s0822.xls">Federal Aviation Administration</a> and <a href="https://web.archive.org/web/20230607181247/https://www.nsf.gov/statistics/infbrief/nsf11305/">National Science Foundation</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stat012ac8597b4e674c25da6937ec9f649f').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Per capita consumption of mozzarella cheese</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Civil engineering doctorates awarded</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 95.86% (r=0.958648)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Engineering doctorates',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} degrees',
+                style: {
+                    color: '#000000'
+                }
+            },
+			            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value}lbs',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			            title: {
+                text: 'Mozzarella cheese consumption',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Engineering doctorates',
+                color: '#000000',
+                type: 'spline',
+                data: [480,501,540,552,547,622,655,701,712,708],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' degrees'
+                }
+            },{
+                name: 'Mozzarella cheese consumption',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [9.3,9.7,9.7,9.7,9.9,10.2,10.5,11,10.6,10.6],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: 'lbs'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stat012ac8597b4e674c25da6937ec9f649f" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2012/tables/12s0217.xls">U.S. Department of Agriculture</a> and <a href="https://web.archive.org/web/20230607181247/https://www.nsf.gov/statistics/infbrief/nsf11305/">National Science Foundation</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stat5b557fb350a3a3da8f023ec26537f53f').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">People who drowned after falling out of a fishing boat</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Marriage rate in Kentucky</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 95.24% (r=0.952407)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Kentucky marriages',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value}  per 1,000',
+                style: {
+                    color: '#000000'
+                }
+            },
+			min:7,max:11,tickInterval:1,alignTicks:false,endOnTick:false,gridLineWidth:0,minorGridLineWidth:0,            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value} deaths',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			min:0,max:20,tickInterval:10,alignTicks:false,endOnTick:false,            title: {
+                text: 'Fishing boat deaths',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Kentucky marriages',
+                color: '#000000',
+                type: 'spline',
+                data: [10.9,9.8,9,9,9.1,8.8,8.7,8.4,7.8,7.9,7.6,7.4],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: '  per 1,000'
+                }
+            },{
+                name: 'Fishing boat deaths',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [19,16,9,12,15,10,11,7,2,5,1,1],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' deaths'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stat5b557fb350a3a3da8f023ec26537f53f" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://wonder.cdc.gov/">Centers for Disease Control &amp; Prevention</a> and  <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/cats/births_deaths_marriages_divorces/marriages_and_divorces.html">National Vital Statistics Reports</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stat32f8bd2ea8dde2b2b5d552dbc83e408e').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">US crude oil imports from Norway</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Drivers killed in collision with railway train</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 95.45% (r=0.954509)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Railway train collisions',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} deaths',
+                style: {
+                    color: '#000000'
+                }
+            },
+			            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value} million barrels',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			            title: {
+                text: 'US crude oil imports from Norway',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Railway train collisions',
+                color: '#000000',
+                type: 'spline',
+                data: [76,74,76,87,66,59,63,60,55,52,46],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' deaths'
+                }
+            },{
+                name: 'US crude oil imports from Norway',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [96,110,103,127,60,54,43,36,20,11,22],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' million barrels'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stat32f8bd2ea8dde2b2b5d552dbc83e408e" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2012/tables/12s0937.pdf">Dept. of Energy</a> and <a href="https://web.archive.org/web/20230607181247/https://wonder.cdc.gov/">Centers for Disease Control &amp; Prevention</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#statb18830e29e74deaf51f26b002b860706').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Per capita consumption of chicken</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Total US crude oil imports</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 89.99% (r=0.899899)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Crude oil imports',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value}B barrels',
+                style: {
+                    color: '#000000'
+                }
+            },
+			            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value}lbs',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			            title: {
+                text: 'Chicken consumed',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Crude oil imports',
+                color: '#000000',
+                type: 'spline',
+                data: [3.311,3.405,3.336,3.521,3.674,3.670,3.685,3.656,3.571,3.307],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: 'B barrels'
+                }
+            },{
+                name: 'Chicken consumed',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [54.2,54,56.8,57.5,59.3,60.5,60.9,59.9,58.7,56],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: 'lbs'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="statb18830e29e74deaf51f26b002b860706" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2012/tables/12s0217.xls">U.S. Department of Agriculture</a> and <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2012/tables/12s0937.pdf">Dept. of Energy</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stat3128fc92bff3a8a54f991f63787bb71e').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Number people who drowned while in a swimming-pool</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Power generated by US nuclear power plants</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 90.12% (r=0.901179)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Nuclear power plants',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} BkWh',
+                style: {
+                    color: '#000000'
+                }
+            },
+			            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value} deaths',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			            title: {
+                text: 'Swimming-pool drownings',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Nuclear power plants',
+                color: '#000000',
+                type: 'spline',
+                data: [728.3,753.9,768.8,780.1,763.7,788.5,782,787.2,806.4,806.2,798.9],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' BkWh'
+                }
+            },{
+                name: 'Swimming-pool drownings',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [421,465,494,538,430,530,511,600,582,605,603],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' deaths'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stat3128fc92bff3a8a54f991f63787bb71e" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://wonder.cdc.gov/">Centers for Disease Control &amp; Prevention</a> and <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2012/tables/12s0937.pdf">Dept. of Energy</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stateff12ac25536f7231903f3cf8feeb156').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Japanese passenger cars sold in the US</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Suicides by crashing of motor vehicle</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 93.57% (r=0.935701)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Suicides by crashing',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} suicides',
+                style: {
+                    color: '#000000'
+                }
+            },
+			            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value} thousand cars',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			min:600,max:1300,tickInterval:200,alignTicks:false,endOnTick:false,gridLineWidth:0,minorGridLineWidth:0,            title: {
+                text: 'Japanese cars sold',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Suicides by crashing',
+                color: '#000000',
+                type: 'spline',
+                data: [87,103,91,112,104,108,113,137,131,129,104],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' suicides'
+                }
+            },{
+                name: 'Japanese cars sold',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [758,863,837,930,830,810,923,1154,1183,1142,829],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' thousand cars'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stateff12ac25536f7231903f3cf8feeb156" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2008/tables/08s1026.xls">U.S. Bureau of Transportation Statistics</a> and <a href="https://web.archive.org/web/20230607181247/https://wonder.cdc.gov/">Centers for Disease Control &amp; Prevention</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stat4101eb07a7db7674897e253ef6a0e30b').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Letters in Winning Word of Scripps National Spelling Bee</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Number of people killed by venomous spiders</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 80.57% (r=0.8057)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Number of people killed by venomous spiders',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} deaths',
+                style: {
+                    color: '#000000'
+                }
+            },
+			            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value} letters',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			min:5,max:15,tickInterval:5,alignTicks:false,endOnTick:false,gridLineWidth:0,minorGridLineWidth:0,            title: {
+                text: 'Spelling Bee winning word',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Number of people killed by venomous spiders',
+                color: '#000000',
+                type: 'spline',
+                data: [6,5,5,10,8,14,10,4,8,5,6],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' deaths'
+                }
+            },{
+                name: 'Spelling Bee winning word',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [9,8,11,12,11,13,12,9,9,7,9],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' letters'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stat4101eb07a7db7674897e253ef6a0e30b" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.spellingbee.com/champions-and-their-winning-words">National Spelling Bee</a> and <a href="https://web.archive.org/web/20230607181247/https://wonder.cdc.gov/">Centers for Disease Control &amp; Prevention</a></div>
+
+<script type="text/javascript">
+$(function () {
+Highcharts.setOptions({
+    chart: {
+        style: {
+            fontFamily: 'Open Sans'
+        }
+    }
+});
+        $('#stat5c6ca31f7e18eb9c0036e68de4b8cc4b').highcharts({
+			
+			credits: {
+				text: 'tylervigen.com',
+				href: 'https://web.archive.org/web/20230607181247/https://www.tylervigen.com'
+			},
+			
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: '<p><span style="color:#ba0f27;font-size:24px;font-weight:bold;font-family: \'Lora\'">Math doctorates awarded</span></p><br /><br /><span style="font-family: \'Lora\'"> correlates with </span><br /><span style="color:#000000;font-size:24px;font-weight:bold;font-family: \'Lora\'">Uranium stored at US nuclear power plants</span>',
+				style: {
+						color:  '#777'
+				}
+            },
+            subtitle: {
+                text: 'Correlation: 95.23% (r=0.952257)'
+            },
+			
+			
+			//X Axes!!!
+            xAxis: [{
+                categories: [1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008],
+				labels: {
+					style: {
+						color:  '#000000'
+					}
+				},
+            },{
+                categories: [1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008],
+				labels: {
+					style: {
+						color:  '#ba0f27'
+					}
+				},
+                opposite: true
+            }],
+			
+
+			
+			//Y Axes!!!
+            yAxis: [{ // Primary yAxis
+            title: {
+                text: 'Uranium US power plants',
+                style: {
+                    color: '#000000'
+                }
+            },
+            labels: {
+                format: '{value} million pounds',
+                style: {
+                    color: '#000000'
+                }
+            },
+			            opposite: true
+        },{ // 2ndary yAxis
+            labels: {
+                format: '{value} degrees',
+                style: {
+                    color: '#ba0f27'
+                }
+            },
+			            title: {
+                text: 'Math doctorates',
+                style: {
+                    color: '#ba0f27'
+                }
+            }
+        }],
+		        
+				
+				
+		plotOptions: {
+            series: {
+                states: {
+                    hover: {
+                        enabled: true,
+                        lineWidth: 2
+                    }
+                }
+            }
+        },
+        exporting: {
+            sourceWidth: 1040,
+            sourceHeight: 410,
+            scale: 2,
+            chartOptions: {
+                subtitle: null
+            }
+        },
+				
+            tooltip: {
+                shared: true
+            },
+            series: [{
+                name: 'Uranium US power plants',
+                color: '#000000',
+                type: 'spline',
+                data: [66.1,65.9,65.8,58.3,54.8,55.6,53.5,45.6,57.7,64.7,77.5,81.2,81.9],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' million pounds'
+                }
+            },{
+                name: 'Math doctorates',
+                color: '#ba0f27',
+                type: 'spline',
+				xAxis: 1,
+				yAxis: 1,
+                data: [1122,1123,1177,1083,1050,1010,919,993,1076,1205,1325,1393,1399],
+                tooltip: {
+                    valuePrefix: '',
+                    valueSuffix: ' degrees'
+                },
+				opposite: true
+            }]
+        });
+    });
+    
+</script>
+	<hr class="between">
+	<div id="stat5c6ca31f7e18eb9c0036e68de4b8cc4b" style="min-width: 510px; height: 420px; margin: 0 auto"></div>
+	<div class="sources">Data sources: <a href="https://web.archive.org/web/20230607181247/https://www.nsf.gov/statistics/infbrief/nsf11305/">National Science Foundation</a> and <a href="https://web.archive.org/web/20230607181247/https://www.census.gov/compendia/statab/2012/tables/12s0937.pdf">Dept. of Energy</a></div>
+
+	<hr class="between">
+<table align="center" style="margin-bottom:10px;"><tr><td><a href="https://web.archive.org/web/20230607181247/https://www.amazon.com/gp/product/0316339431/ref=as_li_tl?ie=UTF8&amp;camp=211189&amp;creative=373489&amp;creativeASIN=0316339431&amp;link_code=as3&amp;tag=tylervicom-20&amp;linkId=UO6I3ENRRQUF255J">
+<img src="../../../20230607181247im_/https%253A/tylervigen.com/images/spurious-correlations-book.jpg" border="0"></td><td style="vertical-align:top"><h2>More? Check out the book!</h2>
+<ul style="margin-top:0px"><li>Spurious charts</li><li>Fascinating factoids</li><li>Commentary in the footnotes</li></ul>
+<a href="https://web.archive.org/web/20230607181247/https://www.amazon.com/gp/product/0316339431/ref=as_li_tl?ie=UTF8&amp;camp=211189&amp;creative=373489&amp;creativeASIN=0316339431&amp;link_code=as3&amp;tag=tylervicom-20&amp;linkId=UO6I3ENRRQUF255J">Amazon</a> | <a href="https://web.archive.org/web/20230607181247/https://www.barnesandnoble.com/w/spurious-correlations-tyler-vigen/1120331604?ean=9780316339438">Barnes &amp; Noble</a> | <a href="https://web.archive.org/web/20230607181247/https://www.indiebound.org/book/9780316339438">Indie Bound</a></td></tr></table>
+	
+	<hr class="between">
+	
+	<h2>Other spurious things</h2>
+	<ul style="margin-top:0px;">
+	<!--<li>The <a href="https://tylervigen.com/old-version.html">old version</a> of this site.</li>-->
+	<li><!--<a href="https://tylervigen.com/discover">--><s>Discover a correlation<!--</a>-->: find new correlations.</s> <font color="0f27#ba"> <i><b>Note from Tyler:</b> This isn't working right now - sorry!  It's a conflict with my charting software and the latest version of PHP on my server, so unfortunately not a quick fix.  <a href="https://web.archive.org/web/20230607181247/mailto:vigentyler@gmail.com">Shoot me an email</a> if you'd like an update when I fix it.</i></font></li>
+	<li>Go to the <a href="page@page=2">next page</a> of charts, and keep clicking "next" to get through all 30,000.</li>
+	<li>View the <a href="sources">sources</a> of every statistic in the book.</li>
+	<!--<li>Or for something totally different, here is a pet project: <a href="https://spaceiscool.com">When is the next time something cool will happen in space?</a></li>-->
+	</ul>
+	
+</div>
+	<div class="foot">
+		<a href="https://web.archive.org/web/20230607181247/http://spuriousmedia.com/">spurious media llc</a> | <a href="about">about</a> | <a href="https://web.archive.org/web/20230607181247/https://twitter.com/TylerVigen">twitter</a> | <a href="https://web.archive.org/web/20230607181247/mailto:vigentyler@gmail.com">email</a> | <a href="subscribe">subscribe</a> | <a href="https://web.archive.org/web/20230607181247/https://creativecommons.org/licenses/by/4.0/">creative commons license</a>
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//web.archive.org/web/20230607181247/https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50890993-1', 'tylervigen.com');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
+
+<!--
+     FILE ARCHIVED ON 18:12:47 Jun 07, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:13:27 Oct 09, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 182.239
+  exclusion.robots: 0.169
+  exclusion.robots.policy: 0.156
+  cdx.remote: 0.072
+  esindex: 0.011
+  LoadShardBlock: 99.884 (3)
+  PetaboxLoader3.datanode: 131.122 (5)
+  load_resource: 150.519 (2)
+  PetaboxLoader3.resolve: 78.998 (2)
+-->
