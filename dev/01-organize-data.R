@@ -165,3 +165,5 @@ spurious_correlations <- bind_rows(spurious_correlations) %>%
 use_data(spurious_correlations, overwrite = TRUE)
 
 use_cc0_license()
+
+writexl::write_xlsx(spurious_correlations, "dev/spurious_correlations.xlsx")
