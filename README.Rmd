@@ -50,9 +50,9 @@ ggplot(nicholas_cage) +
   geom_point(aes(x = var1_value, y = var2_value, color = year), size = 4) +
   theme_minimal() +
   labs(
-    x = unique(nicholas_cage$var1_short),
-    y = unique(nicholas_cage$var2_short),
-    title = paste(unique(nicholas_cage$var1), "vs\n", unique(nicholas_cage$var2))
+    x = "Drownings by falling into a pool",
+    y = "Nicholas Cage movies",
+    title = "Drownings by Falling into a Pool vs Nicholas Cage Movies"
   )
 ```
 
@@ -85,7 +85,7 @@ ggplot(nicholas_cage_long, aes(
   geom_line() +
   geom_point() +
   scale_y_continuous(
-    name = "Falling into a Pool",
+    name = "Drownings by falling into a pool",
     sec.axis = sec_axis(~.,
       name = "Nicholas Cage movies"
     )

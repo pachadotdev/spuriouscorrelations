@@ -20,7 +20,7 @@ spurious_correlations[[2]] <- tibble(
     year = 1999:2009,
     var1 = "Number of people who drowned by falling into a pool",
     var2 = "Films Nicolas Cage appeared in",
-    var1_short = "Swimming pool drownings",
+    var1_short = "Falling into a pool drownings",
     var2_short = "Nicholas Cage",
     var1_value = c(109, 102, 102, 98, 85, 95, 96, 98, 123, 94, 102),
     var2_value = c(2, 2, 2, 3, 1, 1, 2, 3, 4, 1, 4),
