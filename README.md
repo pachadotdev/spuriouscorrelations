@@ -59,7 +59,7 @@ ggplot(nicholas_cage) +
   labs(
     x = unique(nicholas_cage$var1_short),
     y = unique(nicholas_cage$var2_short),
-    title = paste(unique(nicholas_cage$var1), "vs", unique(nicholas_cage$var2))
+    title = paste(unique(nicholas_cage$var1), "vs\n", unique(nicholas_cage$var2))
   )
 ```
 
@@ -104,7 +104,7 @@ ggplot(nicholas_cage_long, aes(
   theme_minimal() +
   labs(
     x = "Year",
-    title = "Nicholas Cage vs. Drownings by Falling into a Pool",
+    title = "Drownings by Falling into a Pool vs Nicholas Cage Movies",
     subtitle = "Standardized values"
   )
 ```
