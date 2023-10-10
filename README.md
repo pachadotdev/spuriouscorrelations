@@ -86,7 +86,13 @@ nicholas_cage_long <- nicholas_cage %>%
   ) %>%
   # standardize the values
   group_by(variable) %>%
-  mutate(value = (value - mean(value)) / sd(value))
+  mutate(
+    value = (value - mean(value)) / sd(value),
+    variable = case_when(
+      variable == "var1_value" ~ "Drownings by falling into a pool",
+      variable == "var2_value" ~ "Nicholas Cage movies"
+    )
+  )
 
 # make a double y axis plot with year on the x axis
 ggplot(nicholas_cage_long, aes(
@@ -95,17 +101,12 @@ ggplot(nicholas_cage_long, aes(
 )) +
   geom_line() +
   geom_point() +
-  scale_y_continuous(
-    name = "Drownings by falling into a pool",
-    sec.axis = sec_axis(~.,
-      name = "Nicholas Cage movies"
-    )
-  ) +
   theme_minimal() +
+  theme(legend.position = "top") +
   labs(
     x = "Year",
-    title = "Drownings by Falling into a Pool vs Nicholas Cage Movies",
-    subtitle = "Standardized values"
+    y = "Standardized values",
+    title = "Drownings by Falling into a Pool vs Nicholas Cage Movies"
   )
 ```
 
