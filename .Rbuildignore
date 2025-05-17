@@ -1,5 +1,10 @@
 ^spuriouscorrelations\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+^README\.html$
 ^dev$
+^docs$
+^pkgdown$
 ^LICENSE\.md$
+^CRAN-SUBMISSION$
+^cran-comments\.md$

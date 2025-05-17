@@ -1,6 +1,6 @@
 Package: spuriouscorrelations
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Datasets with Strong and Spurious Correlations
+Version: 0.1
 Authors@R: 
     c(
         person("Tyler", "Vigen", role = c("cph")),
@@ -8,11 +8,13 @@ Authors@R:
             email = "m.sepulveda@mail.utoronto.ca", 
             comment = c(ORCID = "0000-0003-1017-7574"))
     )
-Description: What the package does (one paragraph).
+Description: Provides datasets from Vigen (2015) rescued from the Internet
+    Wayback Machine. These should be preserved for statistics introductory
+    courses as these make it very clear that correlation is not causation.
 License: CC0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 Depends: 
     R (>= 2.10)
 LazyData: true
