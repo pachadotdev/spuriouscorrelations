@@ -1,7 +1,7 @@
 # Spurious correlations <img src="man/figures/logo.svg" align="right" height="139" alt="" />
 
 <!-- badges: start -->
-
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/pacha)
 <!-- badges: end -->
 
 The goal of spuriouscorrelations is to keep alive the amazing examples from
