@@ -1,10 +1,6 @@
-^spuriouscorrelations\.Rproj$
-^\.Rproj\.user$
-^README\.Rmd$
-^README\.html$
 ^dev$
 ^docs$
-^pkgdown$
-^LICENSE\.md$
+^LICENSE\.txt$
 ^CRAN-SUBMISSION$
 ^cran-comments\.md$
+^LICENSE\.txt$
